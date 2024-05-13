@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+        
+    </head>
+    <body>
+        
+        <div>
+            <div class="text-center">
+                <img src="old room.jpg" class="rounded" alt="handmade things" style="width:1690px; height:400px;">
+                
+                
+              </div>
+        </div>
+        <br><br>
+        <div class="row" style="margin-left: 120px;">
+          <div class="col-sm-6 mb-3 mb-sm-0">
+            <div class="card" style="border: none;">
+              <div class="card-body">
+                <h3 class="card-title">What We Do</h3>
+                <p class="card-text" style="font-size: 20px;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum sunt similique voluptatibus sed repudiandae. Ea, obcaecati. Nam, ipsum, dignissimos praesentium minima maxime vitae modi deleniti possimus mollitia tempora nobis eveniet.</p>
+                <p style="font-size: 20px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui cum, numquam suscipit enim reprehenderit repellendus ipsum tempora esse tempore totam iu</p>
+                <a href="#" class="btn btn-primary" style="background-color: transparent;color:black;border: 1px solid black;font-size: 20px;">Contact Us</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <div class="card" style="border:none;margin-left: 230px;">
+              <div class="card-body">
+                <h3 class="card-title">Contact Us</h3>
+                <p class="card-text" style="font-size: 20px;"><b>Branch & Oak</b> <br>48151 Pine Road <br> Portland, OR 62342</p>
+                <p style="font-size: 20px;"><u>P:</u> (123) 456-7890</p>
+                <p style="color:blue;font-size: 20px;"><u style="color:black">E:</u> Email Us</p>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        
+            
+        <br><br>
+        <div style="width:1600px;margin-left: 100px;align-items: center;">
+            <h2 style="margin-left:620px;">What We Offer</h2>
+            <br>
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col">
+              <div style="width: 500px;">
+                <img src="beech.jpeg" class="card-img-top" alt="..." style="width:350px;height:350px;border-radius:50%;">
+                <div class="card-body">
+                  <h4 style="margin-left: 130px;">Bespoke</h4>
+                  <p><b style="font-size: 20px;">This is a wider card with supporting a <br>natural lead in-to additional content.<br> This content is a little bit longer.</b></p>
+                </div>
+                
+              </div>
+            </div>
+            <div class="col">
+              <div style="width: 500px;">
+                <img src="camera capture.jpg" class="card-img-top" alt="..." style="width:350px;height:350px;border-radius: 50%;">
+                <div class="card-body">
+                  <h4 style="margin-left: 115px;">Gluten-Free</h4>
+                  <p><b style="font-size: 20px;">This card has supporting text below as <br>a natural lead additional content.This <br>content is little bit longer</b></p>
+                </div>
+               
+              </div>
+            </div>
+            <div class="col">
+              <div style="width: 500px;">
+                <img src="team work.jpg" class="card-img-top" alt="..." style="width:350px;height:350px;border-radius: 50%;border:1px solid white;">
+                <div class="card-body">
+                  <h4 style="margin-left: 115px;">Farm to Table</h4>
+                  <p><b style="font-size: 20px;">This is a wider card with supporting text<br>natural  additional content. This card has even<br>than the first to show that equal height action.</b></p>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <br><br>
+        <div style="width:1700px;">
+            <h2 style="margin-left: 800px;">Our Work</h2>
+            <br>
+        <div class="card-group">
+            <div class="card">
+              <img src="beautiful house.jpg" class="card-img-top" alt="..." style="width:350px;height:250px;margin-left: 30px;">
+              
+               
+            </div>
+            <div class="card">
+              <img src="garden.jpg" class="card-img-top" alt="..." style="width:380px;height:250px">
+              
+            </div>
+            <div class="card">
+              <img src="play garden.jpg" class="card-img-top" alt="..." style="width:380px;height:250px">
+             
+            </div>
+            <div class="card">
+                <img src="build1.jpg" class="card-img-top" alt="..." style="width:380px;height:250px">
+                
+              </div>
+          </div>
+          <br>
+
+          <div class="card-group">
+            <div class="card">
+              <img src="house.jpg" class="card-img-top" alt="..." style="width:350px;height:250px;margin-left: 30px;">
+
+            </div>
+            <div class="card">
+              <img src="old room.jpg" class="card-img-top" alt="..." style="width:380px;height:250px">
+
+            </div>
+            <div class="card">
+              <img src="pots.jpg" class="card-img-top" alt="..." style="width:380px;height:250px">
+
+            </div>
+            <div class="card">
+                <img src="nature1.jpeg" class="card-img-top" alt="..." style="width:380px;height:250px">
+
+              </div>
+          </div>
+          </div>
+          <br>
+
+    </body>
+</html>
